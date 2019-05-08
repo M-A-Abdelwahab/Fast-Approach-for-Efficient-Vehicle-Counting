@@ -16,5 +16,5 @@ Please cite this paper:
 #########################################################
 The code contains 3 files:
 Main: main file
-CheckSameCar:  
+CheckSameCar:  check if the current forground is representing a new car or not   
 LabelEnhanc: enhacement the foreground objects
