@@ -1,8 +1,9 @@
 # Title: Fast Approach for Efficient Vehicle Counting
-Code: Matlab Code
-author: Mohamed Ahmed Abdelwahab
-email: abdelwahab@aswu.edu.eg
-Please cite this paper:
+- Code: Matlab Code
+- author: Mohamed Ahmed Abdelwahab
+- email: abdelwahab@aswu.edu.eg
+-Please cite this paper:
+```
 @article{abdelwahab2018fast,
   title={Fast approach for efficient vehicle counting},
   author={Abdelwahab, MA},
@@ -13,8 +14,9 @@ Please cite this paper:
   year={2019},
   publisher={IET}
 }
+```
 The code contains 3 files:
-Main: main file
-CheckSameCar:  check if the current foreground object is representing a new car or existing one   
-LabelEnhanc: enhacement the foreground objects
+* Main: main file
+* CheckSameCar:  check if the current foreground object is representing a new car or existing one   
+* LabelEnhanc: enhacement the foreground objects
 
