@@ -1,4 +1,4 @@
-function [currCars,CarNum1]=CheckSameCar(L0,L1,currCars0,CarNum,OveLap)
+%%function [currCars,CarNum1]=CheckSameCar(L0,L1,currCars0,CarNum,OveLap)
 % The purpose of this function is to check if the current foreground object is representing a new car or existing one  
 % Copyright (c) 2019, M.A. Abdelwahab
 % abdelwahab@aswu.edu.eg
