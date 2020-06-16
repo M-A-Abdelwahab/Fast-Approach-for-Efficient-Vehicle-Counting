@@ -18,3 +18,4 @@ The code contains 3 files:
 Main: main file
 CheckSameCar:  check if the current foreground object is representing a new car or existing one   
 LabelEnhanc: enhacement the foreground objects
+##
