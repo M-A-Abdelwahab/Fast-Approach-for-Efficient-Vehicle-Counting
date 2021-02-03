@@ -2,7 +2,7 @@
 - Code: Matlab Code
 - author: Mohamed Ahmed Abdelwahab
 - email: abdelwahab@aswu.edu.eg
-- Please cite this paper:
+- For using this code, please cite this paper:
 ```
 @article{abdelwahab2018fast,
   title={Fast approach for efficient vehicle counting},
